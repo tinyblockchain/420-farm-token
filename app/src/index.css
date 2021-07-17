@@ -1,0 +1,112 @@
+/*
+12E38F
+14FDE1
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+        "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #202020;
+    color: #f0f0f0;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
+
+h1 {
+    font-size: 1.4em;
+}
+
+.screen {
+    min-height: 100vh;
+}
+
+.nav {
+    background-color: #303030;
+    padding: 12px 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 4px #000;
+}
+
+.nav-section {
+
+}
+
+.button {
+    background: linear-gradient(135deg, #12E38F, #14FDE1);
+    color: #303030;
+    border: none;
+    padding: 4px;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.divider {
+    height: 1px;
+    width: 100%;
+    background-color: #888;
+}
+
+.highlight {
+    color: #12E38F;
+    font-weight: bold;
+}
+
+.landing {
+    animation: fade-in-up 1s ease;
+}
+
+.landing-header {
+    padding: 32px 8px;
+}
+
+.landing-h2 {
+    font-size: 3em;
+}
+
+.landing-section {
+    margin: 0 8px;
+    padding: 8px;
+    border: 1px solid #888;
+    border-radius: 4px;
+    background-color: #282828;
+    box-shadow: 4px 4px 4px #000;
+}
+
+.landing-p {
+    line-height: 1.6em;
+    margin-bottom: 8px;
+}
+
+.landing-ul {
+    list-style: none;
+    margin-top: 8px;
+}
+
+.landing-li {
+    line-height: 1.6em;
+    font-size: 1em;
+}
+
+@keyframes fade-in-up {
+    from {
+        transform: translateY(8px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
