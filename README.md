@@ -29,8 +29,7 @@ Staking your tokens will earn progressive APY rewards during the different
 stages:
 
 - Seedling (2-3 weeks)
-- Vegetative (3-16 weeks)
+- Vegetative (3-8 weeks)
 - Flowering (8-11 weeks)
 
-Minting NFT by providing LP from Uniswap V2 will earn APY rewards and perks.
-
+Minting an NFT by providing LP from Uniswap V2 will earn APY rewards and perks.
