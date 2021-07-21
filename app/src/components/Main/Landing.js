@@ -1,8 +1,9 @@
 import React from 'react'
 import '../../index.css'
+import wallpaper from '../../assets/wallpaper.jpeg'
 
 export default function Landing() {
-    const items = [
+    const batches = [
         { day: 1, batch: 'A' },
         { day: 4, batch: 'B' },
         { day: 7, batch: 'C' },
@@ -14,13 +15,28 @@ export default function Landing() {
         { day: 24, batch: 'I' },
         { day: 27, batch: 'J' },
     ]
-    const listItems = items.map(item => {
+
+    const stages = [
+        { name: 'Seedling', period: '2-3' },
+        { name: 'Vegetative', period: '3-16' },
+        { name: 'Flowering', period: '8-11' }
+    ]
+
+    const batchList = batches.map(batch => {
         return (
             <li className='landing-li'>
-                <span className='highlight'>Day {item.day}. </span>
-                START Germination period batch {item.batch}
+                <span className='highlight'>Day {batch.day}. </span>
+                START Germination period batch {batch.batch}
             </li>
+        )
+    })
 
+    const stageList = stages.map(stage => {
+        return (
+            <li className='landing-li'>
+                <span className='highlight'>{stage.name} </span>
+                ({stage.period} weeks)
+            </li>
         )
     })
 
@@ -40,8 +56,31 @@ export default function Landing() {
                 </p>
                 <div className='divider'/>
                 <ul className='landing-ul'>
-                    {listItems}
+                    {batchList}
                 </ul>
+                <p className='landing-p' style={{marginTop: 32 }}>
+                    Staking your tokens will earn progressive APY rewards during
+                    the different stages:
+                </p>
+                <div className='divider' />
+                <ul className='landing-ul'>
+                    {stageList}
+                </ul>
+                <p className='landing-p' style={{marginTop: 32 }}>
+                    <span className='highlight'>
+                        Minting NFT by providing LP from Uniswap V2 will earn
+                        APY rewards and perks!
+                    </span>
+                </p>
+                <p className='disclaimer'>
+                    As a user of the 420 Farm platform you by default are in
+                    agreement that you do so at your own risk. all liability
+                    resides with the user(s). Risk only what you are willing to
+                    lose in this game.
+                </p>
+            </div>
+            <div className='wallpaper-container'>
+                <img src={wallpaper} alt='wallpaper' className='wallpaper'/>
             </div>
         </div>
     )

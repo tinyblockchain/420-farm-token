@@ -79,10 +79,6 @@ h1 {
 .landing-section {
     margin: 0 8px;
     padding: 8px;
-    border: 1px solid #888;
-    border-radius: 4px;
-    background-color: #282828;
-    box-shadow: 4px 4px 4px #000;
 }
 
 .landing-p {
@@ -98,6 +94,24 @@ h1 {
 .landing-li {
     line-height: 1.6em;
     font-size: 1em;
+}
+
+.wallpaper-container {
+    width: 100vw;
+    height: 148px;
+    position: relative;
+}
+
+.wallpaper {
+    max-width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.disclaimer {
+    font-size: 0.7em;
 }
 
 @keyframes fade-in-up {
