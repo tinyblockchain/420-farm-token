@@ -23,11 +23,17 @@ Start Germination period, COINS join a pool up to 3 days.  You will receive a pr
 - Day 24. START Germination period batch I
 - Day 27. START Germination period batch J
 
-Staking your tokens will earn progressive APY rewards during the different
+Staking tokens will grow your farm, earn progressive rewards during the different
 stages:
 
 - Seedling (2-3 weeks)
 - Vegetative (3-8 weeks)
 - Flowering (8-11 weeks)
 
-Minting an NFT by providing LP from Uniswap V2 will earn APY rewards and perks.
+Harvest NFTs (providing Uniswap V2 LP token) and stake to discover new strains, earn rewards, and perks
+
+### Long Term Goals
+Grow more digital farms to increase those rewards.
+MaryJane DAO to fund R&D for custom strain.
+
+Be Happy
