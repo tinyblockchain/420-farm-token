@@ -30,7 +30,7 @@ stages:
 - Vegetative (3-8 weeks)
 - Flowering (8-11 weeks)
 
-Harvest NFTs (providing Uniswap V2 LP token) and stake to discover new strains, earn rewards, and perks
+Harvest NFTs (providing Uniswap V2 LP token) and stake NFT to discover new strains, earn rewards, and perks.  Harvest, dry times, and trimming techniques will effect rewards.
 
 ### Long Term Goals
 Grow more digital farms to increase those rewards.
