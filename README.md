@@ -27,13 +27,13 @@ Staking tokens will grow your farm, earn progressive rewards during the differen
 stages:
 
 - Seedling (2-3 weeks)
-- Vegetative (3-8 weeks)
-- Flowering (8-11 weeks)
+- Vegetative (3-5 weeks)
+- Flowering (5-11 weeks)
 
 Harvest NFTs (providing Uniswap V2 LP token) and stake NFT to discover new strains, earn rewards, and perks.  Harvest, dry times, and trimming techniques will effect rewards.
 
 ### Long Term Goals
-Grow more digital farms to increase those rewards.
-MaryJane DAO to fund R&D for custom strain.
+Grow digital farms to increase those rewards.
+MaryJane DAO to build farms and fund R&D for custom strain.
 
 Be Happy
