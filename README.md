@@ -4,15 +4,13 @@
 
 ---
 
-### Thank you for visiting 420 Farm
+### The 420 Farm fair launch
 
 ## Grow your dreams
 
-Start Germination period, pooled COIN for up to 3 days.
-You will receive a proportional percentage of 420,000 tokens during the
-Germination period. Only 420,000 tokens will be created per Germination periods,
-for a total of 10 Germination periods ending in a fixed supply of 4,200,000
-tokens. Tokens will be automatically staked.
+Grow digital farms, earn rewards by staking tokens, earn max rewards by staking NFT, and collect exotic NFT.
+
+Start Germination period, COINS join a pool up to 3 days.  You will receive a proportional percentage of 420,000 tokens during the Germination period.  Only 420,000 tokens will be created per Germination periods, for a total of 10 Germination periods ending in a fixed supply of 4,200,000 tokens.  All tokens will be distributed to the community.  If the minimum COINS is reached, all new Tokens will be released into your staking pool and available for claiming on the 30th day. If the minimum COINS are not meet, than all new Tokens will be retracted and total COINS (minus all network fees) will be returned for claiming on the 31th day.
 
 - Day 1.  START Germination period batch A 
 - Day 4.  START Germination period batch B
@@ -25,12 +23,19 @@ tokens. Tokens will be automatically staked.
 - Day 24. START Germination period batch I
 - Day 27. START Germination period batch J
 
-Staking your tokens will earn progressive APY rewards during the different
+Staking tokens will grow your farm, earn progressive rewards during the different
 stages:
 
 - Seedling (2-3 weeks)
-- Vegetative (3-16 weeks)
-- Flowering (8-11 weeks)
+- Vegetative (3-5 weeks)
+- Flowering (5-11 weeks)
 
-Minting NFT by providing LP from Uniswap V2 will earn APY rewards and perks.
+Harvest NFTs (providing Uniswap V2 LP token) and stake NFT to discover new strains, earn rewards, and perks.  Harvest, dry times, and trimming techniques will effect rewards.
 
+UI to support: uniswap, sushiswap, cowswap, and MistX.
+
+### Long Term Goals
+Grow digital farms to increase those rewards.
+MaryJane DAO to build farms and fund R&D for custom strain.
+
+Be Happy
