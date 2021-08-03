@@ -32,6 +32,8 @@ stages:
 
 Harvest NFTs (providing Uniswap V2 LP token) and stake NFT to discover new strains, earn rewards, and perks.  Harvest, dry times, and trimming techniques will effect rewards.
 
+UI to support: uniswap, sushiswap, cowswap, and MistX.
+
 ### Long Term Goals
 Grow digital farms to increase those rewards.
 MaryJane DAO to build farms and fund R&D for custom strain.
