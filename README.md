@@ -1,4 +1,4 @@
-# 420-farm-token
+# BUD - The 420 farm token
 
 420 Farm Contract and Web App
 
@@ -10,7 +10,7 @@
 
 Grow digital farms, earn rewards by staking tokens, earn max rewards by staking NFT, and collect exotic NFT.
 
-Start Germination period, COINS join a pool up to 3 days.  You will receive a proportional percentage of 420,000 tokens after the final Germination Period.  Only 420,000 tokens will be created per Germination periods, for a total of 10 Germination periods ending in a fixed supply of 4,200,000 tokens.  All tokens will be distributed to the community.  If the minimum COINS is reached, all new Tokens will be released into your staking pool and available for claiming a day after the final Germination Period. If the minimum COINS are not meet, than all new Tokens will be retracted and total COINS (minus all network fees) will be returned for claiming on the 31th day.
+Start Germination period, BUDs join a pool up to 3 days.  You will receive a proportional percentage of 420,000 tokens after the final Germination Period.  Only 420,000 BUDs will be created per Germination periods, for a total of 10 Germination periods ending in a fixed supply of 4,200,000 BUDs.  All tokens will be distributed to the community.  If the minimum COINS is reached, all new Tokens will be released into your staking pool and available for claiming a day after the final Germination Period. If the minimum COINS are not meet, than all new Tokens will be retracted and total COINS (minus all network fees) will be returned for claiming on the 31th day.
 
 - Day 1.  START Germination period batch A 
 - Day 4.  START Germination period batch B
