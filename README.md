@@ -37,8 +37,8 @@ Harvest new NFTs by staking LP token from Uniswap-v2 to ear Rewards.
 Support: MetaMask and maybe WalletConnect
 
 ### Long Term Goals
-3% anual Token inflation 
-Grow digital farms to increase those rewards.
-MaryJane DAO to build farms and fund R&D for custom strain.
+3% anual Token inflation,  
+Grow digital farms to increase those rewards,  
+MaryJane DAO to build farms and fund R&D for custom strain.  
 
 Be Happy
