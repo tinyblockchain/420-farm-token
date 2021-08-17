@@ -10,7 +10,7 @@
 
 Grow digital farms, earn rewards by staking tokens, earn max rewards by harvest NFY by staking LP from UniSwap-v2.
 
-During the Germination periods, only 420,000 Tokens will be available for purchase.  We will have 10 consecutive Germination periods for a total supply of 4,200,000 Tokens.  A typical Germination period can last up to 2-3 days.  Your Tokens will be placed into a pool available for claiming after the last and final Germination period.  Connect with MetaMask to purchase new Tokens with ETH, sign to accpet purchase and placement of Tokens until entire Germination ends.
+During each Germination period, only 420,000 Tokens will be available for purchase.   A typical Germination period can last up to 2-3 days.  We will have 10 consecutive Germination periods for a total supply of 4,200,000 Tokens.   Your Tokens will be placed into a pool available for claiming after the last and final Germination period.  Connect with MetaMask to purchase new Tokens with ETH, sign to accpet purchase and to place Tokens in pots until final Germination ends.
 
 There is a minimum ETH required to complete the entire Germination process and for a sprout to emerge.  All ETH will be available for claiming (minus network fees) in case of improper Germination.
 
