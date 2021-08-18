@@ -4,13 +4,11 @@
 
 ---
 
-### The 420 Farm fair launch
+### The 420 Farm fair launch contracts
 
-## Grow your dreams
+Grow digital farms, earn Rewards by staking Tokens, earn max Rewards harvesting NFTs by staking UniSwap-v2 LP token.
 
-Grow digital farms, earn Rewards by staking Tokens, earn max Rewards by harvest NFT by staking LP from UniSwap-v2.
-
-During each Germination period, only 420,000 Tokens will be available for purchase.   A typical Germination period can last up to 2-3 days.  We will have 10 consecutive Germination periods for a total supply of 4,200,000 Tokens.   Your Tokens will be placed into a pool available for claiming after the last and final Germination period.  Connect with MetaMask to purchase new Tokens with ETH, sign to accpet purchase and to place Tokens in pots until final Germination ends.
+During each Germination period, only 420,000 Tokens will be available for purchase.   A typical Germination period can last up to 2-3 days.  We will have 10 consecutive Germination periods for a total supply of 4,200,000 Tokens.   Your Tokens will be placed into a pool available for claiming after the last and final Germination period.  Connect with MetaMask to purchase new Tokens with ETH, sign to accpet purchase and to place Tokens in container pots until final Germination ends.
 
 There is a minimum ETH required to complete the entire Germination process and for a sprout to emerge.  All ETH will be available for claiming (minus network fees) in case of improper Germination.
 
@@ -25,20 +23,23 @@ There is a minimum ETH required to complete the entire Germination process and f
 - Day 17. START Germination period batch I
 - Day 19. START Germination period batch J
 
+---
+
+## Contracts
 Staking Tokens will grow your farm, earn progressive Rewards during the different
 stages:
-
 - Seedling (2-3 weeks)
 - Vegetative (3-5 weeks)
 - Flowering (5-11 weeks)
 
-Harvest new NFTs by staking LP token from Uniswap-v2 to ear Rewards.
+Harvest new NFTs by staking LP token from Uniswap-v2 to earn Rewards.  Rewards are linked to NFTs and claimable by owner of NFTs.
 
-Support: MetaMask and maybe WalletConnect
+### Contract Requirements
+Support MetaMask, if possible WalletConnect
 
-### Long Term Goals
-3% anual Token inflation,  
-Grow digital farms to increase those rewards,  
-MaryJane DAO to build farms and fund R&D for custom strain.  
+Ability to receive ETH, to be proportionally distributed and linked to NFTs for claiming.
 
+NFTs will have 420 themed images/video
+
+---
 Be Happy
