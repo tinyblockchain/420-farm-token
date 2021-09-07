@@ -4,13 +4,15 @@
 
 ---
 
-### The 420 Farm fair launch contracts
+### The 420 Farm contracts
 
-Grow digital farms, earn Rewards by staking Tokens, earn max Rewards harvesting NFTs by staking UniSwap-v2 LP token.
+Grow farms in space, earn Rewards by staking Tokens, earn max Rewards with NFTs by staking UniSwap-v2 LP token.
 
-During each Germination period, only 420,000 Tokens will be available for purchase.   A typical Germination period can last up to 2-3 days.  We will have 10 consecutive Germination periods for a total supply of 4,200,000 Tokens. Through MetaMask your newly purchased Tokens will be placed into a Starter Cube available for claiming after the last and final Germination period ends. 
+### 420 Farm Fair Launch
 
-There is a minimum ETH required to complete the entire Germination process and for a sprout to emerge.  All ETH will be available for claiming (minus network fees) in case of improper Germination.
+During each Germination period, only 420,000 Tokens will be available for purchase, 100% community owned.   A typical Germination period can last up to 2-3 days.  We will have 10 consecutive Germination periods for a total supply of 4,200,000 Tokens. Through MetaMask your newly purchased Tokens will be placed into a Starter Cube available for claiming after the last and final Germination period ends. 
+
+There is a minimum ETH required to complete the entire Germination process and for a sprout to emerge.  In case of improper Germination, all ETH will be available for claiming (minus network fees).
 
 - Day 1.  START Germination period batch A 
 - Day 3.  START Germination period batch B
@@ -25,8 +27,8 @@ There is a minimum ETH required to complete the entire Germination process and f
 
 ---
 
-## Contracts
-Staking Tokens will grow your farm, earn progressive Rewards during the different
+## Staking
+Staking Tokens will grow your farms, earn progressive Rewards during the different
 stages:
 - Seedling (2-3 weeks)
 - Vegetative (3-5 weeks)
