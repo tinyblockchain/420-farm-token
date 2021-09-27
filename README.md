@@ -7,6 +7,7 @@
 ### The 420 Farm contracts
 
 Grow farms in space, earn Rewards by staking Tokens, earn max Rewards with NFTs by staking UniSwap-v2 LP token.
+Bridging high value, low risk out-of-this-world assets with defi.
 
 ### 420 Farm Fair Launch
 
