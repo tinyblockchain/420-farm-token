@@ -16,11 +16,11 @@ Germination period launch, only 420,000 Tokens will be available for purchase, 1
 ## Staking
 Staking Tokens will grow your farms, earn progressive Rewards during the different
 stages:
-- Seedling (2-3 weeks)
-- Vegetative (3-5 weeks)
-- Flowering (5-11 weeks)
+- Seedling (2-3 weeks) 75% Rewards
+- Vegetative (3-5 weeks) 80% Rewards
+- Flowering (5-11 weeks) 90% Rewards
 
-Harvest new NFTs by staking LP token from Uniswap-v2 to earn max Rewards.  Rewards are linked to NFTs and claimable by owner of NFTs.
+Harvest new NFTs by staking LP token from Uniswap-v2 to earn 100% Rewards.  Rewards are linked to NFTs and claimable by owner of NFTs.
 
 ### Contract Requirements
 Support MetaMask, if possible WalletConnect
