@@ -28,6 +28,8 @@ Contract to receive ETH, to be proportionally distributed to stakers and linked 
 NFTs will have 420 themed images/video.
 
 ## UI
+Landing page:
+About the 420farm concept and community building: discord, telegram, etc....
 
 No lock up period, stake to start your very own 420 farm in space.  
 Staking page:
