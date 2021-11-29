@@ -34,9 +34,9 @@ Staking page:
 - Explains the progress Rewards during the diffrent stages; Seedling, Vegetative, and Flowering.
 - Connect wallet first to see staking information (cloudflare).
 - Displays estimated APR
-- Displays Staked value and Rewards
-- Displays NFT rewards for claiming
-
+- Displays Staked value and claimable Rewards
+- Displays NFT value and claimable Rewards
+- small section teaching how to perform the above actions directly intereacting with the contract(s).
 
 
 ---
