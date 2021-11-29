@@ -31,11 +31,11 @@ NFTs will have 420 themed images/video.
 
 No lock up period, stake to start your very own 420 farm in space.  
 Staking page:
-Explains the progress Rewards during the diffrent stages; Seedling, Vegetative, and Flowering.
-Connect wallet first to see staking information (cloudflare).
-Displays estimated APR
-Displays Staked value and Rewards
-Displays NFT rewards for claiming
+- Explains the progress Rewards during the diffrent stages; Seedling, Vegetative, and Flowering.
+- Connect wallet first to see staking information (cloudflare).
+- Displays estimated APR
+- Displays Staked value and Rewards
+- Displays NFT rewards for claiming
 
 
 
