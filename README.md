@@ -37,7 +37,7 @@ Staking page:
 - Displays estimated APR
 - Displays Staked value and claimable Rewards
 - Displays NFT value and claimable Rewards
-- small section teaching how to perform the above actions directly intereacting with the contract(s).
+- Small section teaching how to perform the above actions directly intereacting with the contract(s).
 
 
 ---
