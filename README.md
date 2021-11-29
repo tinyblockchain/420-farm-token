@@ -29,9 +29,8 @@ NFTs will have 420 themed images/video.
 
 ## UI
 Landing page:
-About the 420farm concept and community building: discord, telegram, etc....
+About the 420farm concept and community building: discord, telegram, etc....   No lock up period, stake to start your very own 420 farm in space.  
 
-No lock up period, stake to start your very own 420 farm in space.  
 Staking page:
 - Explains the progress Rewards during the diffrent stages; Seedling, Vegetative, and Flowering.
 - Connect wallet first to see staking information (cloudflare).
